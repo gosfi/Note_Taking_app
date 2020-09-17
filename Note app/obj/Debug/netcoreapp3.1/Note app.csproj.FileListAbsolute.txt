@@ -1,0 +1,15 @@
+E:\dev\C#\Note app\bin\Debug\netcoreapp3.1\Note app.exe
+E:\dev\C#\Note app\bin\Debug\netcoreapp3.1\Note app.deps.json
+E:\dev\C#\Note app\bin\Debug\netcoreapp3.1\Note app.runtimeconfig.json
+E:\dev\C#\Note app\bin\Debug\netcoreapp3.1\Note app.runtimeconfig.dev.json
+E:\dev\C#\Note app\bin\Debug\netcoreapp3.1\Note app.dll
+E:\dev\C#\Note app\bin\Debug\netcoreapp3.1\Note app.pdb
+E:\dev\C#\Note app\obj\Debug\netcoreapp3.1\Note app.csprojAssemblyReference.cache
+E:\dev\C#\Note app\obj\Debug\netcoreapp3.1\Note_app.Form1.resources
+E:\dev\C#\Note app\obj\Debug\netcoreapp3.1\Note app.csproj.GenerateResource.cache
+E:\dev\C#\Note app\obj\Debug\netcoreapp3.1\Note app.AssemblyInfoInputs.cache
+E:\dev\C#\Note app\obj\Debug\netcoreapp3.1\Note app.AssemblyInfo.cs
+E:\dev\C#\Note app\obj\Debug\netcoreapp3.1\Note app.csproj.CoreCompileInputs.cache
+E:\dev\C#\Note app\obj\Debug\netcoreapp3.1\Note app.dll
+E:\dev\C#\Note app\obj\Debug\netcoreapp3.1\Note app.pdb
+E:\dev\C#\Note app\obj\Debug\netcoreapp3.1\Note app.genruntimeconfig.cache
